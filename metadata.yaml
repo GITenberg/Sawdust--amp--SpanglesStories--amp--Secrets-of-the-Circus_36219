@@ -1,0 +1,30 @@
+_repo: Sawdust--amp--SpanglesStories--amp--Secrets-of-the-Circus_36219
+_version: 0.1.0
+alternative_title: 'Sawdust and Spangles: Stories and Secrets of the Circus'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coup, W. C. (William Cameron)
+    alias: Coup, William Cameron
+    birthdate: 1836
+    deathdate: 1895
+    gutenberg_agent_id: '38147'
+    url: http://www.gutenberg.org/2009/agents/38147
+    wikipedia: http://en.wikipedia.org/wiki/William_C._Coup
+description: ''
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36219'
+  lccn: '01017002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Circus'
+title: 'Sawdust & Spangles: Stories & Secrets of the Circus'
+url: http://www.gutenberg.org/ebooks/36219
